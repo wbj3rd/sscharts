@@ -1,0 +1,8 @@
+dependencies:
+  - name: common
+    repository: https://bjw-s.github.io/helm-charts
+    version: 1.5.0
+
+
+
+
